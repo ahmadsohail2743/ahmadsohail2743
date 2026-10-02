@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ahmad Sohail
 
-<!--
-**ahmadsohail2743/ahmadsohail2743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Science student passionate about web development, data analytics, and database management.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category | Technologies |
+| --- | --- |
+| Languages | Python, SQL, C#, HTML/CSS |
+| Tools | Power BI, Git, GitHub, VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### 1. Smart Health and Productivity Tracker (PulsePoint)
+A web-based tracker integrated with Power BI analytics dashboards.
+
+### 2. Cogni Career
+A web based job application tracker having portals of student, company and Admin. 
+
+## Contact
+- Email: 2025ds82@student.uet.edu.pk
+- GitHub: [@YOUR_USERNAME](https://github.com/ahmadsohail2743)
